@@ -12,6 +12,8 @@ Imaginez ceci : vous êtes sur le point de lancer un service de nettoyage haut 
 
 Préparez-vous à libérer votre créativité et votre sens des affaires en parcourant ce labo attrayant et interactif. À la fin de cet exercice, vous disposerez d’un ensemble complet de documents qui vous mettront sur la voie du succès entrepreneurial. Commençons et faisons de votre société de nettoyage pour entreprises une réalité.
 
+> **Important** : cet exercice fournit des invites que vous pouvez utiliser pour travailler avec Copilot. Vous devez les utiliser comme *point de départ* pour votre exploration de Copilot. Vous êtes invité à modifier ces invites et à ajouter des invites de votre choix pour participer à un dialogue itératif avec Copilot et affiner les résultats qu’il produit. Vous pourrez ne pas obtenir exactement la sortie décrite dans les instructions de l’exercice, mais cela n’a pas d’importance. Le but est d’expérimenter Copilot.
+
 Cet exercice devrait prendre environ **40** minutes.
 
 > **Remarque** : cet exercice requiert une licence **Microsoft 365 Copilot**.
@@ -51,7 +53,7 @@ Pour démarrer votre exploration de l’IA générative, vous allez utiliser Cop
     How do I setup a new business in New York? Answer with a numbered list.
     ```
 
-1. Passez en revue la réponse et posez des questions supplémentaires si nécessaire. Quand la réponse vous convient, utilisez l’icône **Copier** (&#128461;) située sous la réponse pour la copier dans le Presse-papiers. Collez-la dans le document Word après le texte existant. Sélectionnez ensuite le texte qui fournit une liste des étapes à suivre lors de la création d’une entreprise à New York et utilisez l’icône Copilot (en bas du texte sélectionné) pour visualiser le texte sous forme de tableau.
+1. Passez en revue la réponse et posez des questions supplémentaires si nécessaire. Lorsque vous êtes satisfait de la réponse, copiez-la dans le Presse-papiers. Collez-la dans le document Word après le texte existant. Sélectionnez ensuite le texte qui fournit une liste des étapes à suivre lors de la création d’une entreprise à New York et utilisez l’icône Copilot (en bas du texte sélectionné) pour visualiser le texte sous forme de tableau.
 
     ![Capture d’écran montrant comment visualiser du texte sous forme de tableau dans Copilot.](./Media/copilot-rewrite-as-table.png)
 
@@ -82,7 +84,7 @@ Après ces quelques recherches initiales, demandons à Copilot de vous aider à 
 
     ![Capture d’écran montrant un plan d’entreprise rédigé par Copilot.](./Media/copilot-draft-business-plan-prompt.png)
 
-    > **Conseil** : saisissez le prompt et lorsque vous tapez « / » Copilot doit vous permettre de parcourir les documents dans votre dossier OneDrive. Si Copilot ne suggère aucun document, cela peut être dû au fait que votre OneDrive n’a pas encore été entièrement indexé. Dans ce cas, modifiez le prompt en `Write a business plan for "Contoso Cleaning", a commercial cleaning buisness in New York. Include an executive summary, market overview, and financial projections.`.
+    > **Conseil** : saisissez le prompt et lorsque vous tapez « / » Copilot doit vous permettre de parcourir les documents dans votre dossier OneDrive. Si Copilot ne suggère aucun document, cela peut être dû au fait que votre OneDrive n’a pas encore été entièrement indexé. Dans ce cas, modifiez le prompt en `Write a business plan for "Contoso Cleaning", a commercial cleaning business in New York. Include an executive summary, market overview, and financial projections.`.
 
 1. Générez et examinez une réponse. Ensuite, conservez-la, ajustez le ton et la longueur ou demandez à Copilot de la réécrire avec un nouveau prompt. Appliquez les titres et le style appropriés à votre document pour qu’il soit professionnel avant de l’enregistrer sous le nom **Business Plan.docx** dans votre dossier OneDrive. Votre document doit ressembler à ce qui suit :
 
@@ -130,8 +132,6 @@ Plan d’entreprise en main, nous allons prendre une partie de ces données sur 
     ![Capture d’écran de Copilot dans Excel ajoutant un PivotChart.](./Media/copilot-excel-chart-design.png)
 
 1. Enregistrez le classeur et fermez Excel.
-
-Vous venez d’utiliser des données créées à partir de Copilot dans Word pour les visualiser dans Excel. Dans l’exercice suivant, vous allez utiliser Copilot dans Outlook pour composer et envoyer des e-mails sur le travail que vous avez effectué.
 
 ## Utiliser Copilot pour créer le contenu d’une présentation
 
