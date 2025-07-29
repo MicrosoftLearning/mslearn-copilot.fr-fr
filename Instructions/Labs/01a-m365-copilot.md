@@ -144,12 +144,16 @@ Avec l’aide de Copilot, vous avez créé le brouillon d’un plan d’affaires
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
     ```
+1. Passez en revue la conception de la présentation, puis sélectionnez **Générer les diapositives**.
 
+    ![Capture d’écran de la présentation PowerPoint créée par Copilot à partir d’un document Word.](./Media/copilot-generate-slides.png)
 1. Copilot génère des diapositives dans la présentation.  Le processus peut prendre plusieurs minutes et votre sortie doit ressembler à ceci avec un thème différent :
 
-    ![Capture d’écran de la présentation PowerPoint créée par Copilot à partir d’un document Word.](./Media/copilot-powerpoint-create-image.png)
+    ![Capture d’écran de la présentation PowerPoint créée par Copilot à partir d’un document Word.](./Media/generate-slides-copilot.png)
 
-1. Sélectionnez l’avant-dernière diapositive de la présentation (avant la dernière diapositive *Conclusion*, si Copilot en a généré une).  Puis, dans le volet Copilot, dans la zone de conversation, sélectionnez l’icône **Afficher les invites** et sélectionnez l’invite **Ajouter une diapositive à propos de...** pour créer une diapositive à l’aide de l’invite `Add a slide about the benefits of an eco-friendly approach to cleaning.`.
+1. Sélectionnez **Conserver**, puis définissez votre **affichage** sur **normal**, en bas à droite de votre présentation PowerPoint ![Capture d’écran d’une présentation PowerPoint créant une nouvelle diapositive.](./Media/normal-presentation-view.png)
+
+1. Sélectionnez l’avant-dernière diapositive de la présentation (avant la dernière diapositive *Conclusion*, si Copilot en a généré une).  Ensuite, dans le volet Copilot, dans la zone de conversation, invitez à créer une diapositive à l’aide de l’invite `Add a slide about the benefits of an eco-friendly approach to cleaning.`
 
     ![Capture d’écran de la création d’une diapositive dans une présentation PowerPoint.](./Media/copilot-powerpoint-add-new-slide.png)
 
