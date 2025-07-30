@@ -77,8 +77,8 @@ Après ces quelques recherches initiales effectuées, demandons à Copilot de vo
     Based on the contents of this document, create a business plan for my cleaning business.
     ```
 
-1. Vérifiez la réponse. Ensuite, dans le volet Microsoft Word, dans le menu **Fichier**, créez un document vierge. Fermez le volet **Concepteur** s’il s’ouvre et remplacez le nom du nouveau document *Document* par `Business Plan`.
-1. Copiez le plan d’affaires généré dans le volet Copilot et collez-le dans le document du plan d’affaires :
+1. Passez en revue la réponse. Ensuite, dans le volet Microsoft Word, dans le menu **Fichier**, créez un document vierge. Fermez le volet **Concepteur** s’il s’ouvre et remplacez le nom du nouveau document *Document* par `Business Plan`.
+1. Copiez le plan d’entreprise généré dans le volet Copilot et collez-le dans le document du plan d’entreprise, en supprimant tout contenu inutile généré par Copilot :
 
     ![Capture d’écran d’un document Word avec un plan d’entreprise généré par Copilot.](./Media/generated-content.png)
 
@@ -113,7 +113,7 @@ Avec l’aide de Copilot, vous avez créé le brouillon d’un plan d’entrepri
 1. Passez en revue la réponse, qui devrait inclure un tableau des bénéfices prévus pour les cinq prochaines années.
 1. Si une option de modification du tableau dans Excel est affichée, sélectionnez-la pour créer un classeur avec la table des données. Sinon, revenez à l’onglet OneDrive et utilisez le **bouton (+)** pour ajouter un nouveau **classeur Excel**. Copiez ensuite la table des données du volet Copilot dans le classeur.
 
-1. Remplacez le nom du classeur par `Financial Projections`. Il doit ressembler à ceci :
+1. Remplacez le nom du classeur par `Financial projections`. Il doit ressembler à ceci :
 
     ![Capture d’écran d’un classeur Excel avec des données générées par Copilot.](./Media/generated-financials.png)
 
@@ -147,6 +147,8 @@ Grâce à Copilot, vous avez créé un plan d’affaires pour la société de ne
 
 1. Dans la diapositive du titre de la présentation, entrez le nom de votre entreprise de nettoyage comme titre, mais également `Investor Opportunity` comme sous-titre.
 1. Ajoutez une nouvelle diapositive à l’aide de la disposition des diapositives **Deux contenus** (qui inclut un titre et deux espaces réservés au contenu).
+    ![Capture d’écran d’une nouvelle diapositive avec deux zones de contenu.](./Media/two-content-slide.png)
+
 1. Modifiez le titre de la diapositive en `Benefits of Hiring a Commercial Cleaner`.
 1. Dans le volet Copilot qui s’affiche, entrez le prompt suivant :
 
